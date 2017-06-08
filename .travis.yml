@@ -1,5 +1,5 @@
-language: generic
+language: bash
 script:
-  -bash -e ./test.sh
+  -bash -e ./test_same.sh
 
 
